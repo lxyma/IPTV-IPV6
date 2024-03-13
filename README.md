@@ -1,6 +1,10 @@
+PS: 由于作者Meroser不再更新。以下源地址链接已替换为本库链接，本仓库仅保持自用状态，很少更新。EPG链接暂时不再有效
+
+
+--------------------------------------------以下为Meroser原文-------------------------------------------------------------------------------------
 <img align="right" width="350" height="270" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/Meroser.png">
 
-# Meroser's IPTV📺
+# From Meroser's IPTV📺
 欢迎来到Meroser的直播源仓库🎉
 
 🎈**高清、流畅、几近完美**的直播观看体验🎈**强迫症福音**
